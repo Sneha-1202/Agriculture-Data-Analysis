@@ -28,3 +28,11 @@ This project analyzes agricultural data to uncover insights that support smarter
 2. Temperature and Humidity Trends: Analyzed temperature and humidity fluctuations over time and locations to evaluate their influence on crop growth cycles. This provided insights into ideal climatic conditions for specific crops.
 
 3. Crop Yield Analysis: Explored how environmental factors such as rainfall, temperature, and humidity correlate with crop yields. This analysis helped highlight conditions that contribute to higher or lower agricultural productivity, aiding better crop planning and risk management.
+
+![Image](https://github.com/user-attachments/assets/6811aa4d-114b-42f0-8675-31b31577adc7)
+
+![Image](https://github.com/user-attachments/assets/b3395efc-3223-4d82-b3d8-4d070952b212)
+
+![Image](https://github.com/user-attachments/assets/f2592a06-2b12-496c-8da0-f5cdbfbea968)
+
+![Image](https://github.com/user-attachments/assets/d661a21a-fa55-4399-a6dd-fd3b19b92227)
