@@ -22,3 +22,9 @@ This project analyzes agricultural data to uncover insights that support smarter
 6. Importing data from Snowflake to Power BI and visualizing the data.
 
 ## Key Relationships Explored:
+
+1. Rainfall Analysis: Assessed average rainfall across years, seasons, crop types, and geographic locations to identify patterns and anomalies. This helped understand how rainfall variability affects crop selection and productivity in different regions.
+
+2. Temperature and Humidity Trends: Analyzed temperature and humidity fluctuations over time and locations to evaluate their influence on crop growth cycles. This provided insights into ideal climatic conditions for specific crops.
+
+3. Crop Yield Analysis: Explored how environmental factors such as rainfall, temperature, and humidity correlate with crop yields. This analysis helped highlight conditions that contribute to higher or lower agricultural productivity, aiding better crop planning and risk management.
